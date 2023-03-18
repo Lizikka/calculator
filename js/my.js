@@ -1,8 +1,9 @@
 
-    let btn = document.querySelector(`five`)
+    let btn = document.querySelector(`#card`)
     let calcScreen = document.querySelector(`pole`)
+    
     btn.addEventListener(`click`, ()=>{
-        calcScreen.innerHTML = "5"
+        calcScreen.innerHTML = 
     }
     )
 
