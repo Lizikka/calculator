@@ -3,7 +3,7 @@
     let calcScreen = document.querySelector(`#pole`)
     
     btn.addEventListener(`click`, ()=>{
-        calcScreen.innerHTML = `Hurra!`
+        calcScreen.innerHTML = `Rostik!`
     }
     )
 
